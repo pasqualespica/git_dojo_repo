@@ -10,8 +10,8 @@ Regular **Markdown** here.
 <!-- 
 @startuml firstDiagram
 
-Alice1 -> Bob1: Hello
-Bob1 -> Alice1: Hi!
+AliceProva1 -> Bob1: Hello
+Bob1 -> AliceProva1: Hi!
 		
 @enduml 
 -->
