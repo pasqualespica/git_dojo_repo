@@ -16,7 +16,7 @@ Bob1 -> AliceProva1: Hi!
 @enduml 
 -->
 
-![](firstDiagram1.svg)
+![](firstDiagram.svg)
 
 dajeee - AFTER1
 </div>
