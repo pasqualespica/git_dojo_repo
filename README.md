@@ -7,14 +7,14 @@ dajeee - BEFORE
 
 Regular **Markdown** here.
 
-<div hidden>
+<!-- 
 @startuml firstDiagram
 
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
+Alice1 -> Bob1: Hello
+Bob1 -> Alice1: Hi!
 		
-@enduml
-</div>
+@enduml 
+-->
 
 ![](firstDiagram.svg)
 
