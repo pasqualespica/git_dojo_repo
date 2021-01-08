@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="162px" preserveAspectRatio="none" style="width:176px;height:162px;" version="1.1" viewBox="0 0 176 162" width="176px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jp3afrph45z5" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="54" x2="54" y1="40.4883" y2="119.1094"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="139" x2="139" y1="40.4883" y2="119.1094"/><rect fill="#FEFECE" filter="url(#f1jp3afrph45z5)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="94" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="80" x="12" y="25.5352">AliceProva1</text><rect fill="#FEFECE" filter="url(#f1jp3afrph45z5)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="94" x="5" y="118.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="80" x="12" y="138.6445">AliceProva1</text><rect fill="#FEFECE" filter="url(#f1jp3afrph45z5)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="49" x="113" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="120" y="25.5352">Bob1</text><rect fill="#FEFECE" filter="url(#f1jp3afrph45z5)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="49" x="113" y="118.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="120" y="138.6445">Bob1</text><polygon fill="#A80036" points="127.5,67.7988,137.5,71.7988,127.5,75.7988,131.5,71.7988" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="54" x2="133.5" y1="71.7988" y2="71.7988"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="33" x="61" y="67.0566">Hello</text><polygon fill="#A80036" points="65,97.1094,55,101.1094,65,105.1094,61,101.1094" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="59" x2="138.5" y1="101.1094" y2="101.1094"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="18" x="71" y="96.3672">Hi!</text><!--MD5=[593915aa9a1c6a71e3a6528b54de740d]
+@startuml firstDiagram
+
+AliceProva1 -> Bob1: Hello
+Bob1 -> AliceProva1: Hi!
+		
+@enduml 
+
+PlantUML version 1.2020.26(Mon Dec 21 18:45:07 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>

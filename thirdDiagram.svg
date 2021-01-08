@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="162px" preserveAspectRatio="none" style="width:138px;height:162px;" version="1.1" viewBox="0 0 138 162" width="138px" zoomAndPan="magnify"><defs><filter height="300%" id="fvirxiy84h39q" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="35" x2="35" y1="40.4883" y2="119.1094"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="101" x2="101" y1="40.4883" y2="119.1094"/><rect fill="#FEFECE" filter="url(#fvirxiy84h39q)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="56" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="12" y="25.5352">Alice3</text><rect fill="#FEFECE" filter="url(#fvirxiy84h39q)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="56" x="5" y="118.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="12" y="138.6445">Alice3</text><rect fill="#FEFECE" filter="url(#fvirxiy84h39q)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="49" x="75" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="82" y="25.5352">Bob3</text><rect fill="#FEFECE" filter="url(#fvirxiy84h39q)" height="30.4883" style="stroke:#A80036;stroke-width:1.5;" width="49" x="75" y="118.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="82" y="138.6445">Bob3</text><polygon fill="#A80036" points="89.5,67.7988,99.5,71.7988,89.5,75.7988,93.5,71.7988" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="35" x2="95.5" y1="71.7988" y2="71.7988"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="33" x="42" y="67.0566">Hello</text><polygon fill="#A80036" points="46,97.1094,36,101.1094,46,105.1094,42,101.1094" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="40" x2="100.5" y1="101.1094" y2="101.1094"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="18" x="52" y="96.3672">Hi!</text><!--MD5=[8536080806ae0927130481f2330d3a1f]
+@startuml thirdDiagram
+
+Alice3 -> Bob3: Hello
+Bob3 -> Alice3: Hi!
+		
+@enduml
+
+PlantUML version 1.2020.26(Mon Dec 21 18:45:07 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
